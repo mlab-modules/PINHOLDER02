@@ -259,7 +259,7 @@
 
   (footprint "Mlab_CON:TestPoint_Pad_D0.5mm_noSilk" (layer "B.Cu")
     (tedit 5A0F774F) (tstamp 6aa90890-5961-4c35-82ae-c17c093e4227)
-    (at 168.7 88.7 180)
+    (at 168.55 88.7 180)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Datasheet" "")
@@ -277,7 +277,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 8a593a7f-e658-4b8a-b228-4d12b4a9af37)
     )
-    (fp_text user "${REFERENCE}" (at 0 1.45) (layer "B.Fab")
+    (fp_text user "${REFERENCE}" (at 0 1.45) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 94759937-634e-403a-96e1-9ff732e54f93)
     )
@@ -287,7 +287,7 @@
 
   (footprint "TestPoint:TestPoint_Keystone_5019_Minature" (layer "B.Cu")
     (tedit 5A0F774F) (tstamp 977b8995-7066-47dc-9e66-85634982df76)
-    (at 152.4 88.7 90)
+    (at 152.5 88.65 90)
     (descr "SMT Test Point- Micro Miniature 5019, http://www.keyelco.com/product-pdf.cfm?p=1357")
     (tags "Test Point")
     (property "Datasheet" "")
@@ -369,6 +369,12 @@
   )
   (gr_text "MLAB.cz" (at 160.024 74.8925) (layer "B.SilkS") (tstamp 98df1f68-b80d-4703-b427-6f31b9b2c240)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
+  )
+  (gr_text "PINHOLDER02A" (at 175.5 74.8) (layer "F.SilkS") (tstamp 0e04c681-7735-43a1-8df9-15623a0c94de)
+    (effects (font (size 1.7 1.7) (thickness 0.3)))
+  )
+  (gr_text "MLAB.cz" (at 159.8 74.8) (layer "F.SilkS") (tstamp be7f00a9-4ac2-49ee-b87e-dae19879f57c)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
 
   (segment (start 164.214 88.929) (end 167.621 88.929) (width 0.4) (layer "F.Cu") (net 1) (tstamp 2b08d07b-ed48-443e-a8da-e9545c54e824))
