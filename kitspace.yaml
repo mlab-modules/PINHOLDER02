@@ -1,8 +1,8 @@
-bom: hw/sch_pcb/PINHOLDER01.kicad_pcb
+bom: hw/sch_pcb/PINHOLDER02.kicad_pcb
 color: white
 eda:
-  pcb: hw/sch_pcb/PINHOLDER01.kicad_pcb
+  pcb: hw/sch_pcb/PINHOLDER02.kicad_pcb
   type: kicad
 gerbers: hw/cam_profi/
-site: https://github.com/mlab-modules/PINHOLDER01
+site: https://github.com/mlab-modules/PINHOLDER02
 summary: Board for mounting thick semiconductor diodes into existing devices.
