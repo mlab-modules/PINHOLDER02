@@ -276,6 +276,10 @@
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 1c59db75-c987-4ba0-9685-ab2ad2272454)
   )
+  (text "A\nGND\nK" (at 153.67 101.6 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 501c02d9-a598-4540-974c-cf9d4dcdb0f2)
+  )
 
   (label "circle_0" (at 118.11 101.6 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
