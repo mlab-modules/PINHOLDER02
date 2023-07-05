@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/PINHOLDER02.kicad_sch</source>
-    <date>Wed Jul  5 12:21:17 2023</date>
-    <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
+    <date>Wed Jul  5 15:06:21 2023</date>
+    <tool>Eeschema 7.0.5.1-1-g8f565ef7f0-dirty-deb11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>PINHOLDER02A</title>
@@ -30,6 +30,8 @@
       <libsource lib="MLAB_HEADER" part="HEADER_1x03" description="1x03 2.54 mm pitch header"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PINHOLDER02.kicad_sch"/>
+      <property name="ki_description" value="1x03 2.54 mm pitch header"/>
+      <property name="ki_keywords" value="1x03, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d35152c3-e35c-415b-acc7-d8cef90f0103</tstamps>
     </comp>
@@ -39,6 +41,7 @@
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PINHOLDER02.kicad_sch"/>
+      <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>471731a9-774a-4a26-8f31-d71830da0f1d</tstamps>
     </comp>
@@ -48,6 +51,7 @@
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PINHOLDER02.kicad_sch"/>
+      <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>38b35dd8-1022-49ff-9859-753b58dd2e59</tstamps>
     </comp>
@@ -57,6 +61,7 @@
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PINHOLDER02.kicad_sch"/>
+      <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7a059145-aa34-4c3a-99f5-35c4d4e2d7aa</tstamps>
     </comp>
@@ -74,6 +79,8 @@
       <property name="Value" value="TestPoint"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PINHOLDER02.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0973725f-4664-4b74-b9c4-81776f94e86a</tstamps>
     </comp>
@@ -91,6 +98,8 @@
       <property name="Value" value="TestPoint"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PINHOLDER02.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e649fda7-ed42-4b94-ae38-717a632400ce</tstamps>
     </comp>
@@ -108,6 +117,8 @@
       <property name="Value" value="TestPoint"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PINHOLDER02.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>59ab6160-e4b3-4344-a2cb-0c8d55864332</tstamps>
     </comp>
