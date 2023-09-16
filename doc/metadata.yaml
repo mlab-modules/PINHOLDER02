@@ -18,6 +18,7 @@ issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/ibom/PINHOLDER02-ibom.html
 mod_scheme: doc/gen/PINHOLDER02-schematic.pdf
+status: 0
 tags:
 - mlab
 - mlab-module
